@@ -1,0 +1,42 @@
+{
+    "user": {
+        "name": "Linus Torvalds",
+        "username": "torvalds",
+        "followers": 327731,
+        "following": 0,
+        "public_repos": 12,
+        "bio": null
+    },
+    "top_repos": [
+        {
+            "name": "linux",
+            "stars": 251889,
+            "language": "C",
+            "description": "Linux kernel source tree"
+        },
+        {
+            "name": "AudioNoise",
+            "stars": 4510,
+            "language": "C",
+            "description": "Random digital audio effects"
+        },
+        {
+            "name": "GuitarPedal",
+            "stars": 2455,
+            "language": "C",
+            "description": "Linus learns analog circuits"
+        },
+        {
+            "name": "uemacs",
+            "stars": 2167,
+            "language": "C",
+            "description": "Random version of microemacs with my private modificatons"
+        },
+        {
+            "name": "test-tlb",
+            "stars": 1073,
+            "language": "C",
+            "description": "Stupid memory latency and TLB tester"
+        }
+    ]
+}

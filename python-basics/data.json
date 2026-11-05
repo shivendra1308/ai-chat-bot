@@ -1,0 +1,19 @@
+{
+    "name": "Shivendra",
+    "role": "AI Engineer",
+    "skills": [
+        "React",
+        "Python",
+        "AI"
+    ],
+    "tools": [
+        {
+            "name": "Groq",
+            "free": true
+        },
+        {
+            "name": "OpenAI",
+            "free": false
+        }
+    ]
+}

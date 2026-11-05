@@ -1,0 +1,4 @@
+Hello from Python!
+I am learning FastAPI and AI!
+This is my AI journey!
+New line added!
